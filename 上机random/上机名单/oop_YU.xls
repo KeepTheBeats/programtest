@@ -1,0 +1,1360 @@
+<!--include file="../../check.asp" -->
+
+<!--include file="../../../checkqx.asp" -->
+
+	<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+	<head>
+	<title>开课复知书</title>
+	<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+	<meta name=ProgId content=Excel.Sheet><meta name=Generator content="Microsoft Excel 10">
+	<style>.xlsText{mso-style-parent:style0;mso-number-format:"\@";border:.5pt solid windowtext;}</style>
+	
+	</head>
+	<BODY>
+<table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="640" align="center">
+  <tr> 
+      <td align="center" colspan="11"  class="xlsText"><b><font size="+1">《面向对象程序设计》201502学期学生花名册</font></b></td>
+  </tr>
+  <tr bgcolor="ffffff"> 
+  
+	<td align="center" colspan="6" class="xlsText">课程名称：面向对象程序设计</td>
+	<td align="center" class="xlsText">人数：94</td>
+	<td align="center" colspan="4" class="xlsText">任课教师：余春艳</td>
+  
+  </tr>
+  <tr bgcolor="ffffff"> 
+  
+	<td align="center" class="xlsText">学号</td>
+	<td align="center" class="xlsText">姓名</td>
+	<td align="center" class="xlsText">学分</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+	<td align="center" class="xlsText">&nbsp;</td>
+  
+  </tr>
+  
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031202530</td>
+			<td align="center" class="xlsText">朱明灵</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031302425</td>
+			<td align="center" class="xlsText">倪继昌</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031302532</td>
+			<td align="center" class="xlsText">朱玉筱</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402308</td>
+			<td align="center" class="xlsText">郭灿杰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402315</td>
+			<td align="center" class="xlsText">江焱</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402320</td>
+			<td align="center" class="xlsText">梁瀚</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402321</td>
+			<td align="center" class="xlsText">林建新</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402340</td>
+			<td align="center" class="xlsText">牛妍辉</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402407</td>
+			<td align="center" class="xlsText">郭剑禹</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402523</td>
+			<td align="center" class="xlsText">王禹锡</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402543</td>
+			<td align="center" class="xlsText">许敏</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031402620</td>
+			<td align="center" class="xlsText">邱金城</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031403111</td>
+			<td align="center" class="xlsText">潘义文</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031403112</td>
+			<td align="center" class="xlsText">潘勇鑫</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502105</td>
+			<td align="center" class="xlsText">陈宝玉</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502139</td>
+			<td align="center" class="xlsText">杨桂鸿</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502143</td>
+			<td align="center" class="xlsText">赵蓬阁</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502148</td>
+			<td align="center" class="xlsText">邹燕萍</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502207</td>
+			<td align="center" class="xlsText">陈沛听</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502211</td>
+			<td align="center" class="xlsText">樊阳阳</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502217</td>
+			<td align="center" class="xlsText">李黛菲</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502237</td>
+			<td align="center" class="xlsText">许洸溥</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502238</td>
+			<td align="center" class="xlsText">杨华锋</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502244</td>
+			<td align="center" class="xlsText">赵天熙</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502245</td>
+			<td align="center" class="xlsText">郑荣尧</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502246</td>
+			<td align="center" class="xlsText">钟俊良</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502247</td>
+			<td align="center" class="xlsText">庄巍</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502303</td>
+			<td align="center" class="xlsText">陈登盛</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502312</td>
+			<td align="center" class="xlsText">黄阳正</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502314</td>
+			<td align="center" class="xlsText">柯豪燊</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502320</td>
+			<td align="center" class="xlsText">连捷</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502321</td>
+			<td align="center" class="xlsText">廖紫菱</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502327</td>
+			<td align="center" class="xlsText">刘帅珍</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502335</td>
+			<td align="center" class="xlsText">吴瑞冰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502338</td>
+			<td align="center" class="xlsText">许靖妍</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502339</td>
+			<td align="center" class="xlsText">叶港晨</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502343</td>
+			<td align="center" class="xlsText">郑晨佳</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502345</td>
+			<td align="center" class="xlsText">钟梦真</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502405</td>
+			<td align="center" class="xlsText">陈辉</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502418</td>
+			<td align="center" class="xlsText">梁敏英</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502420</td>
+			<td align="center" class="xlsText">林冠妙</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502421</td>
+			<td align="center" class="xlsText">林章颖</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502425</td>
+			<td align="center" class="xlsText">吕宇鹏</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502426</td>
+			<td align="center" class="xlsText">阮雄强</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502428</td>
+			<td align="center" class="xlsText">王超凡</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502429</td>
+			<td align="center" class="xlsText">王晓颖</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502431</td>
+			<td align="center" class="xlsText">吴森杰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502433</td>
+			<td align="center" class="xlsText">伍杰麟</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502434</td>
+			<td align="center" class="xlsText">谢正午</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502435</td>
+			<td align="center" class="xlsText">薛宇涛</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502438</td>
+			<td align="center" class="xlsText">应翠琳</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502439</td>
+			<td align="center" class="xlsText">张岚鑫</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502440</td>
+			<td align="center" class="xlsText">张晓露</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502444</td>
+			<td align="center" class="xlsText">朱慧文</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502445</td>
+			<td align="center" class="xlsText">宗浩宇</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502446</td>
+			<td align="center" class="xlsText">杨行杰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502501</td>
+			<td align="center" class="xlsText">蔡安琪</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502509</td>
+			<td align="center" class="xlsText">杜实得</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502511</td>
+			<td align="center" class="xlsText">胡竞捷</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502514</td>
+			<td align="center" class="xlsText">江彪</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502521</td>
+			<td align="center" class="xlsText">林伟</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502524</td>
+			<td align="center" class="xlsText">刘书言</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502525</td>
+			<td align="center" class="xlsText">刘永阳</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502526</td>
+			<td align="center" class="xlsText">彭蕊博</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502534</td>
+			<td align="center" class="xlsText">徐稚韵</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502535</td>
+			<td align="center" class="xlsText">杨攀攀</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502536</td>
+			<td align="center" class="xlsText">杨向东</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502537</td>
+			<td align="center" class="xlsText">叶己峰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502542</td>
+			<td align="center" class="xlsText">周超</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502543</td>
+			<td align="center" class="xlsText">周龙荣</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502544</td>
+			<td align="center" class="xlsText">朱俊雄</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502601</td>
+			<td align="center" class="xlsText">蔡鸿杰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502603</td>
+			<td align="center" class="xlsText">曾晓君</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502604</td>
+			<td align="center" class="xlsText">陈甘霖</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502605</td>
+			<td align="center" class="xlsText">陈家进</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502606</td>
+			<td align="center" class="xlsText">陈敏辉</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502615</td>
+			<td align="center" class="xlsText">李家鹏</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502617</td>
+			<td align="center" class="xlsText">林俊杰</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502618</td>
+			<td align="center" class="xlsText">林炜坤</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502619</td>
+			<td align="center" class="xlsText">刘春香</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502622</td>
+			<td align="center" class="xlsText">尼玛</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502624</td>
+			<td align="center" class="xlsText">彭赛琪</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502625</td>
+			<td align="center" class="xlsText">宋冰蕊</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502630</td>
+			<td align="center" class="xlsText">吴松青</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502632</td>
+			<td align="center" class="xlsText">伍晨薇</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502633</td>
+			<td align="center" class="xlsText">熊乾程</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502636</td>
+			<td align="center" class="xlsText">叶钦</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502638</td>
+			<td align="center" class="xlsText">张建桩</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031502640</td>
+			<td align="center" class="xlsText">郑晓哲</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031503106</td>
+			<td align="center" class="xlsText">缪舒婷</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031503108</td>
+			<td align="center" class="xlsText">江秋怡</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031503112</td>
+			<td align="center" class="xlsText">陈超蓥</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031503119</td>
+			<td align="center" class="xlsText">龙倩</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+		<tr bgcolor="ffffff">
+			<td align="center" class="xlsText">031503122</td>
+			<td align="center" class="xlsText">黄蓝谊</td>
+			<td align="center" class="xlsText">3</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+			<td align="center" class="xlsText">&nbsp;</td>
+		</tr>
+		
+</table>
+</BODY>
+</html>	
+	
